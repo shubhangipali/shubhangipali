@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubhangipaliwal.com/](https://shubhangipaliwal.com/)
 
-- 💬 Ask me about **html,css, js, Jquery, PHP, Bootstrap**
+- 💬 Ask me about **html,css, js, Jquery, React js, Bootstrap**
 
 - 📫 How to reach me **shubhpaliwal96@gmail.com**
 
