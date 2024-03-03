@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangipali&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangipali" /> </p>
 
-- 🔭 I’m currently working on **Konstant info solutions pvt ltd**
+- 🔭 I’m currently working at **Konstant info solutions pvt ltd**
 
-- 💬 Ask me about **html,CSS, js, Jquery, React js, Bootstrap**
+- 💬 Ask me about ** HTML, CSS, js, Jquery, React js, Bootstrap**
 
 - 📫 How to reach me **shubhpaliwal96@gmail.com**
 
