@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shubhnagi Paliwal</h1>
+<h1 align="center">Hi 👋, I'm Shubhangi Paliwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangipali&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangipali" /> </p>
 
-- 🔭 I’m currently working on **dazzler software pvt ltd**
+- 🔭 I’m currently working on **Konstant info solutions pvt ltd**
 
-- 👨‍💻 All of my projects are available at [https://shubhangipaliwal.com/](https://shubhangipaliwal.com/)
-
-- 💬 Ask me about **html,css, js, Jquery, React js, Bootstrap**
+- 💬 Ask me about **html,CSS, js, Jquery, React js, Bootstrap**
 
 - 📫 How to reach me **shubhpaliwal96@gmail.com**
-
-- 📄 Know about my experiences [https://shubhangipaliwal.com/](https://shubhangipaliwal.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
